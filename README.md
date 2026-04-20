@@ -1,4 +1,5 @@
-# Supply-Chain-Dashboard-using-Power-BI-
+# Supply-Chain-Dashboard-using-Power-BI
+![Project Screenshot](images/Supply_chain_.png)
 Product Performance Analysis:
 Objective: Identify top-performing products and optimize the product mix.
 The primary goal of this project is to conduct an extensive analysis of supply chain data, focusing on extracting key insights and identifying opportunities for improvement. Although this initiative is primarily for practice purposes, it aims to explore various components of the supply chain, ranging from operational efficiency to cost management. The objective is to develop a deeper understanding of these processes and propose potential strategic improvements.
